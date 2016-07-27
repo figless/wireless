@@ -31,7 +31,7 @@
 //        +----+
 //
 //
-// Ben Morrice June 2014
+// Ben Morrice July 2016
 
 
 #include "LLAPSerial.h"
